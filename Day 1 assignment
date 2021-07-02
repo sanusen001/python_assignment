@@ -1,0 +1,12 @@
+a=int(input("enter first number"))
+b=int(input("enter second number"))
+sum=a+b
+Sub=a-b
+Mu=a*b
+D1=a/b
+D2=a//b
+print("addition",sum)
+print("substraction",Sub)
+print ("multiply",Mu)
+print("Floating Point division",D1)
+print ("integer division",D2)
